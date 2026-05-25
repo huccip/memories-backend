@@ -1,1 +1,1 @@
-Simple NodeJS backend for auth/crud operations in an android app I have created
+The auth/crud operations backend for this android app: https://github.com/huccip/memories-app
